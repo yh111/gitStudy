@@ -6,4 +6,4 @@ moisture
 
 using 15751
 for testing gitpull
-Creating a new branch is quick.
+It is easy to create a new branch dev
