@@ -12,3 +12,4 @@ add from master and to merge to dev
 add another thing to test merge to feature1
 using fast forward:ff
 using no-ff
+using ff again
